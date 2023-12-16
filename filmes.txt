@@ -77,3 +77,11 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>Encanto</title>
+<link>https://macopolo.site/002/a1d8e830ce6993bc842b670f1ebaeace.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/83/Encanto_poster.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
