@@ -1,0 +1,79 @@
+<item>
+<title>Homem-aranha (2002)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw77rJt-VVGjnU83-bNzTRtyM#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyoW1Y0BjuHpBa-zMxariHo2J0fWE7ZmB5s99HWcy5MI.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha 2 (2004)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw74VmKL-4-3xL5WF3RP4ylW8#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyEy7a6cLRgKe6Yr-q39U-vcdqwab6AE9czU5p9K9BUc.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha 3 (2007)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw74CEATFtL3NYirUBwxgrLDV#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuZjmHXnzg4_bj-4kiwY-X6z0MhxB69IVFFhKACDf-YM.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: Através do Aranhaverso (2023)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75VIkbYbgHviqI0T9Ic9YhF#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0iR2cDBmby28qlj8m2fqPNYNjuNnFYD5Qo7KnfRKqks.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: De Volta ao Lar (2017)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75GN1R0pdt0_23GkkycAmL0#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvMHP1jTlDRV33GlULtAQr5QcI1xWVylEeYN5_iCMYNM.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: Longe de Casa (2019)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw77nOlAGarE2eMjlChe6syG_#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQprASzjJwiufMzMoTWi6A0g6Ws_dAoBH2PcZfZ4Pmd8.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: Sem Volta Para Casa (2021)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75PI2hZh2RvlN3LpiiRIf6t#.mkv</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLst_Ye49cNbiapLx7Jb67SpqIfDpT7AYOwwtWw0-u_oY.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>O Espetacular Homem-Aranha (2012)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw74flcnJDPGWYxFsRYJRyrgQ#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL17bhrFYkLzQQ0gObI-TXJ3VsUhwlmXYcyLTEEON-dyA.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Trolls 3 (2023)</title>
+<link>https://download2324.mediafire.com/zlgi3kteoydgDbU1SDcjRh4qcPeJXg3qjhhMWsSPPzGyXjTiyHwVJ-ic3RZgdURp6JyGpGeKRZEdhdcxQnvdc0clBjRY3YnALGEEwq2CBFrUtbWGMdd4x6lOiSUU1_fUx95kA5N6nkTdVTh6tTROu_iand8bTMhGInC2UId5z5jBxA/axipx96d5hrdxrw/7034a9565d5ba8b6a58387ad47791c6d.mp4</link>
+<thumbnail>https://www.cinesystem.com.br/filmes/images/poster/trolls-3-juntos-novamente.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>O poderoso chefinho 2</title>
+<link>https://download1322.mediafire.com/skq1a6jzvlbgfy5W4JCAahJf1LXen0gjQv4XkDP-CdYWk6SG2huPe-61VcHqDnONtmXagxxiP_WCXz7lddUk9C-FUgBm8HXik5y-yNViREiFWgDY7cASMJBF-0oR5buR_hwEJ668lg_Xzz5krzw7PJeTCHUpEt9j7O3Zt5awxNDV/110nor8q191uib4/3766d5a2c941e00c6bab9b260f475f97.mp4</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/21/06/24/17/25/2242702.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
