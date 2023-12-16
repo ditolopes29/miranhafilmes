@@ -94,3 +94,13 @@
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>Enrolados</title>
+<link>https://download1979.mediafire.com/vuk2gs85dxxgYgRhBixR2M5UX4s2I6Cwb5QXwW0A6D_CRks0QZfcrp1MMZGEk2sNXP001HsLVvzGf4LGrlBDmUhYVQ5OxKZvT4LiH_qiZ5gLuvrPA8cCSaOGNqqErNLh3grLcRwS6Bk32-4X0TGQF_pMVqWQ_ry9XbKvx8C5wsmw1eDq/1x6m3xoltmpp2aw/Um+Vampiro+Mentiroso+%28Dublado%29+-+2015+-+1080p.ts</link>
+<thumbnail>https://m.media-amazon.com/images/S/pv-target-images/5552648be0a2b78cb465735c4629b22e8dc6a66ce4a25a255850b192a3348705.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
