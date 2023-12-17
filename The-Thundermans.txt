@@ -6,4 +6,13 @@
 <fanart>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</fanart>
 <info></info>
 </channel>
+
+<channel>
+<name>2ª Temporada</name>
+<thumbnail>https://static.wikia.nocookie.net/vozesportuguesas/images/3/3a/Poster-digital-the-thundermans-D_NQ_NP_883510-MLB32183052464_092019-F.jpg/revision/latest?cb=20230104210012&path-prefix=pt</thumbnail>
+<externallink>https://raw.githubusercontent.com/ditolopes29/miranhafilmes/main/Thethundermans2</externallink>
+<fanart>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</fanart>
+<info></info>
+</channel>
+
 </channels>
