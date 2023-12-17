@@ -1,0 +1,199 @@
+<item>
+    <title>Os Thundermans S03 E01</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313343.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E01</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E02</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313344.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E02</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E03</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313345.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E03</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E04</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313346.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E04</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E05</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313347.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E05</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E06</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313348.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E06</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E07</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313349.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E07</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E08</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313350.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E08</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E09</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313351.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E09</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E10</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313352.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E10</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E11</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313353.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E11</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E12</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313354.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E12</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E13</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313355.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E13</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E14</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313356.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E14</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E15</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313357.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E15</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E16</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313358.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E16</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E17</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313359.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E17</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E18</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313360.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E18</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E19</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313361.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E19</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E20</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313362.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E20</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E21</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313363.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E21</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E22</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313364.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E22</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E23</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313365.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E23</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E24</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313366.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E24</info>
+</item>
+
+<item>
+    <title>Os Thundermans S03 E25</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313367.mp4</link>
+    <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q32EqsRxbDIB3mEjTGhPTu0Ho4X.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S03 E25</info>
+</item>
