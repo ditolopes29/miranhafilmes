@@ -6,3 +6,4 @@
 <fanart>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</fanart>
 <info></info>
 </channel>
+</channels>
