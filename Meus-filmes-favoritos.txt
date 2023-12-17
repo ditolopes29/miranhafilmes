@@ -1,0 +1,120 @@
+<item>
+<title>Homem-aranha (2002)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw77rJt-VVGjnU83-bNzTRtyM#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyoW1Y0BjuHpBa-zMxariHo2J0fWE7ZmB5s99HWcy5MI.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha 2 (2004)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw74VmKL-4-3xL5WF3RP4ylW8#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyEy7a6cLRgKe6Yr-q39U-vcdqwab6AE9czU5p9K9BUc.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha 3 (2007)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw74CEATFtL3NYirUBwxgrLDV#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuZjmHXnzg4_bj-4kiwY-X6z0MhxB69IVFFhKACDf-YM.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: Através do Aranhaverso (2023)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75VIkbYbgHviqI0T9Ic9YhF#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0iR2cDBmby28qlj8m2fqPNYNjuNnFYD5Qo7KnfRKqks.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: De Volta ao Lar (2017)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75GN1R0pdt0_23GkkycAmL0#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvMHP1jTlDRV33GlULtAQr5QcI1xWVylEeYN5_iCMYNM.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: Longe de Casa (2019)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw77nOlAGarE2eMjlChe6syG_#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQprASzjJwiufMzMoTWi6A0g6Ws_dAoBH2PcZfZ4Pmd8.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Homem-Aranha: Sem Volta Para Casa (2021)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75PI2hZh2RvlN3LpiiRIf6t#.mkv</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLst_Ye49cNbiapLx7Jb67SpqIfDpT7AYOwwtWw0-u_oY.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>O Espetacular Homem-Aranha (2012)</title>
+<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw74flcnJDPGWYxFsRYJRyrgQ#.mp4</link>
+<thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL17bhrFYkLzQQ0gObI-TXJ3VsUhwlmXYcyLTEEON-dyA.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
+<title>Trolls 3 (2023)</title>
+<link>https://download2324.mediafire.com/zlgi3kteoydgDbU1SDcjRh4qcPeJXg3qjhhMWsSPPzGyXjTiyHwVJ-ic3RZgdURp6JyGpGeKRZEdhdcxQnvdc0clBjRY3YnALGEEwq2CBFrUtbWGMdd4x6lOiSUU1_fUx95kA5N6nkTdVTh6tTROu_iand8bTMhGInC2UId5z5jBxA/axipx96d5hrdxrw/7034a9565d5ba8b6a58387ad47791c6d.mp4</link>
+<thumbnail>https://www.cinesystem.com.br/filmes/images/poster/trolls-3-juntos-novamente.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>O poderoso chefinho 2</title>
+<link>https://download1322.mediafire.com/skq1a6jzvlbgfy5W4JCAahJf1LXen0gjQv4XkDP-CdYWk6SG2huPe-61VcHqDnONtmXagxxiP_WCXz7lddUk9C-FUgBm8HXik5y-yNViREiFWgDY7cASMJBF-0oR5buR_hwEJ668lg_Xzz5krzw7PJeTCHUpEt9j7O3Zt5awxNDV/110nor8q191uib4/3766d5a2c941e00c6bab9b260f475f97.mp4</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/21/06/24/17/25/2242702.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Encanto</title>
+<link>https://macopolo.site/002/a1d8e830ce6993bc842b670f1ebaeace.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/83/Encanto_poster.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>Enrolados</title>
+<link>https://download2338.mediafire.com/j3jdx2qutpdg9Hnnq89sXwJfOM7H-AAu3g6Oaurwb22sFMYdRsLPE4ApQdRnKO3GepZTuG6Xr3FLkOMgfQHt3Tqc5bxx7GfmA_uh6KrlZWvBzOnv17_qrjMJPFAnddXS-nshiRSKcgEUwdP786dvlXz0jgZ1PRxdd99PGaWOnrH6XTE/qnige0zlyz45urt/ca77084765e275ca9eb8dbfd560691d8.mp4</link>
+<thumbnail>https://media.fstatic.com/cYUnvPcH-KrlGlt65-l-BxFfTFE=/322x478/smart/filters:format(webp)/media/movies/covers/2011/06/b262f1cfd763c6dd1a084f6147d19978.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Um Vampiro Mentiroso</title>
+<link>https://download1979.mediafire.com/vuk2gs85dxxgYgRhBixR2M5UX4s2I6Cwb5QXwW0A6D_CRks0QZfcrp1MMZGEk2sNXP001HsLVvzGf4LGrlBDmUhYVQ5OxKZvT4LiH_qiZ5gLuvrPA8cCSaOGNqqErNLh3grLcRwS6Bk32-4X0TGQF_pMVqWQ_ry9XbKvx8C5wsmw1eDq/1x6m3xoltmpp2aw/Um+Vampiro+Mentiroso+%28Dublado%29+-+2015+-+1080p.ts</link>
+<thumbnail>https://m.media-amazon.com/images/S/pv-target-images/5552648be0a2b78cb465735c4629b22e8dc6a66ce4a25a255850b192a3348705.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Frozen: uma aventura congelante</title>
+<link>https://download2283.mediafire.com/my2ojqf2zjdg1jsCAkkRSa7unXgQ6OBCZuFBqxisflb62xzU2bE1NHwP_Vcs-USsirm-EID225Il_TsQdGaq-RBcQAT6xu-LDBl_hGbxtCptN6ridTdS9w2t-twg4ouApDy70MCLGYMMxin9Hdcbm2e2WBj92YdDLaz65IKzV34FTvw/liv9e5rjbg30n8i/41577b8784f8b9c6f5ec0537dcc1d23f.mp4</link>
+<thumbnail>https://i.pinimg.com/736x/45/fe/84/45fe8476e2517fd599b2e53fd5f20fd8.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Frozen 2</title>
+<link>https://download2289.mediafire.com/svyrsw2c21ygwRMp7Zf97XOZN01AuqyGiMCRNaJrNc2tqaVpmARspIQGoa8vW1k4lcqKZrM973KI16UN79YRMuJ6z07rA0SeA2oznD8vZiQKwWnNqV2bwsmN9USSrotRQ2q2EPDWK5b-H4S4YNJQZDQSgTZVfr1lk-Uo3jeBwAYrTsU/47h7qgan8x2p7ie/08cdcb22fa485cb05f8517759f9cc495.mp4</link>
+<thumbnail>https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/frozen-2-et00056551-26-04-2017-07-17-17.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
