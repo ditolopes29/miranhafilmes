@@ -1,0 +1,95 @@
+<item>
+    <title>Os Thundermans S01 E01</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313299.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E01</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E02</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313300.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/89106e9d6c6bf8512b39fd04ceb837e6.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E02</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E03</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313301.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/7289bba82d580ef39e88d27ca78b14df.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E03</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E04</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313302.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/a0dbe396941e9e0878860db502d2890c.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E04</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E05</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313303.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/ac37422982b307eb8c2528cb6e803376.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E05</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E06</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313304.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/614ad11a0c98f30ff428516bde81e43a.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E06</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E07</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313305.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/f8ce58151dd66b8a960dc9f93bb49f96.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E07</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E08</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313306.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/aea7badc4f0ff12c951c4d3d18b712ac.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E08</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E09</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313307.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/13be93c38646dd4dab380139bd495b5e.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E09</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E10</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313308.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/c3d7e819d7a06302306f1fde1532864b.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E10</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E11</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313309.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/5e116e8db1a588263e5a372d9fc6e04b.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E11</info>
+</item>
+
+<item>
+    <title>Os Thundermans S01 E12</title>
+    <link>http://rdns.tv:80/series/0212530/8907988/313310.mp4</link>
+    <thumbnail>http://lxls.mx:80/images/dd78016103281f2262c469e55529e092.jpg</thumbnail>
+    <fanart></fanart>
+    <info>Os Thundermans S01 E12</info>
+</item>
