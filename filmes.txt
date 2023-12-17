@@ -103,4 +103,21 @@
 <info></info>
 </item>
 
+<item>
+<title>Frozen: uma aventura congelante</title>
+<link>https://download2283.mediafire.com/my2ojqf2zjdg1jsCAkkRSa7unXgQ6OBCZuFBqxisflb62xzU2bE1NHwP_Vcs-USsirm-EID225Il_TsQdGaq-RBcQAT6xu-LDBl_hGbxtCptN6ridTdS9w2t-twg4ouApDy70MCLGYMMxin9Hdcbm2e2WBj92YdDLaz65IKzV34FTvw/liv9e5rjbg30n8i/41577b8784f8b9c6f5ec0537dcc1d23f.mp4</link>
+<thumbnail>https://i.pinimg.com/736x/45/fe/84/45fe8476e2517fd599b2e53fd5f20fd8.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Frozen 2</title>
+<link>https://download2289.mediafire.com/svyrsw2c21ygwRMp7Zf97XOZN01AuqyGiMCRNaJrNc2tqaVpmARspIQGoa8vW1k4lcqKZrM973KI16UN79YRMuJ6z07rA0SeA2oznD8vZiQKwWnNqV2bwsmN9USSrotRQ2q2EPDWK5b-H4S4YNJQZDQSgTZVfr1lk-Uo3jeBwAYrTsU/47h7qgan8x2p7ie/08cdcb22fa485cb05f8517759f9cc495.mp4</link>
+<thumbnail>https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/frozen-2-et00056551-26-04-2017-07-17-17.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
 
