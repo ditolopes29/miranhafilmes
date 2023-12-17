@@ -119,5 +119,14 @@
 <info></info>
 </item>
 
+<channels>
+<channel>
+<name>The Thundermans</name>
+<thumbnail>http://lxls.mx:80/images/a0dbe396941e9e0878860db502d2890c.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/ditolopes29/miranhafilmes/main/The-Thundermans.txt</externallink>
+<fanart>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 
