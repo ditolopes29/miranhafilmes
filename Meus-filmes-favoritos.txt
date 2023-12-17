@@ -63,6 +63,14 @@
 </item>
 
 <item>
+<title>Encanto</title>
+<link>https://macopolo.site/002/a1d8e830ce6993bc842b670f1ebaeace.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/83/Encanto_poster.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<!-- <item>
 <title>Trolls 3 (2023)</title>
 <link>https://download2324.mediafire.com/zlgi3kteoydgDbU1SDcjRh4qcPeJXg3qjhhMWsSPPzGyXjTiyHwVJ-ic3RZgdURp6JyGpGeKRZEdhdcxQnvdc0clBjRY3YnALGEEwq2CBFrUtbWGMdd4x6lOiSUU1_fUx95kA5N6nkTdVTh6tTROu_iand8bTMhGInC2UId5z5jBxA/axipx96d5hrdxrw/7034a9565d5ba8b6a58387ad47791c6d.mp4</link>
 <thumbnail>https://www.cinesystem.com.br/filmes/images/poster/trolls-3-juntos-novamente.jpg</thumbnail>
@@ -78,13 +86,7 @@
 <info></info>
 </item>
 
-<item>
-<title>Encanto</title>
-<link>https://macopolo.site/002/a1d8e830ce6993bc842b670f1ebaeace.mp4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/83/Encanto_poster.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
+
 
 
 <item>
@@ -117,4 +119,4 @@
 <thumbnail>https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/frozen-2-et00056551-26-04-2017-07-17-17.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
-</item>
+</item> -->
