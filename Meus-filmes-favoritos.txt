@@ -23,8 +23,8 @@
 </item>
 
 <item>
-<title>Homem-Aranha: Através do Aranhaverso (2023)</title>
-<link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75VIkbYbgHviqI0T9Ic9YhF#.mp4</link>
+<title>plugin://plugin.video.elementum/play?uri=Homem-Aranha: Através do Aranhaverso (2023)</title>
+<link>magnet:?xt=urn:btih:996a18a1e2786c7aeacadd70e126f87cdb0dbcb5</link>
 <thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0iR2cDBmby28qlj8m2fqPNYNjuNnFYD5Qo7KnfRKqks.jpg</thumbnail>
 <fanart></fanart>
 <info>Aranha</info>
