@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>Homem-Aranha no Aranhaverso</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36033201da817a92d4e96791e289499f89c73ff0</link>
+<thumbnail>https://www.sonypictures.com.br/sites/brazil/files/2023-06/1400x2100.jpg</thumbnail>
+<fanart></fanart>
+<info>Aranha</info>
+</item>
+
+<item>
 <title>Homem-Aranha: De Volta ao Lar (2017)</title>
 <link>http://mainsrv.contentgftp.xyz:80/play/_AqFk5EDz3hZXDixXjuhc7VKu1rkcjQIgBF3CjFGw75GN1R0pdt0_23GkkycAmL0#.mp4</link>
 <thumbnail>http://mainsrv.contentgftp.xyz:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvMHP1jTlDRV33GlULtAQr5QcI1xWVylEeYN5_iCMYNM.jpg</thumbnail>
