@@ -94,5 +94,14 @@
 <info>Após décadas preso na escola, o lagarto Leo planeja conseguir sua liberdade.</info>
 </item>
 
+<item>
+<title>O Segredo dos animais (2006)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a069c0522fc9c5920a3e147dcc9ccea924e5c72</link>
+<thumbnail>https://static.wikia.nocookie.net/dublagem/images/d/d4/O_Segredo_dos_Animais.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20230801104321&path-prefix=pt-br</thumbnail>
+<fanart></fanart>
+<info>O touro Otis gosta de cantar e tocar como todos os outros animais do celeiro quando o agricultor está fora. No entanto, o bovino despreocupado deve encontrar coragem para ser um líder quando, inesperadamente, ele se encontra em uma posição de grande responsabilidade.</info>
+</item>
+
+
 
 
