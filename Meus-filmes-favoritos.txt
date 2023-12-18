@@ -102,6 +102,20 @@
 <info>O touro Otis gosta de cantar e tocar como todos os outros animais do celeiro quando o agricultor está fora. No entanto, o bovino despreocupado deve encontrar coragem para ser um líder quando, inesperadamente, ele se encontra em uma posição de grande responsabilidade.</info>
 </item>
 
+<item>
+<title>Frozen: uma aventura congelante</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9ba9b65725a697ad73298e2becc00fcd94c0a58</link>
+<thumbnail>https://i.pinimg.com/736x/45/fe/84/45fe8476e2517fd599b2e53fd5f20fd8.jpg</thumbnail>
+<fanart>https://static1.purebreak.com.br/articles//6/19/16/@/11135--frozen-uma-aventura-congelante-opengraph_1200-2.jpg</fanart>
+<info>Acompanhada por um vendedor de gelo, a jovem e destemida princesa Anna parte em uma jornada por perigosas montanhas de gelo na esperança de encontrar sua irmã, a rainha Elsa, e acabar com a terrível maldição de inverno eterno, que está provocando o congelamento do reino.</info>
+</item>
 
+<item>
+<title>Frozen 2</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f159b3c2eced4220947f99680ba2495a9930617</link>
+<thumbnail>https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/frozen-2-et00056551-26-04-2017-07-17-17.jpg</thumbnail>
+<fanart>https://ovicio.com.br/wp-content/uploads/2019/12/20191216-1575409010296-frozen-2.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajuda Elsa a compreender a origem de seus poderes.</info>
+</item>
 
 
