@@ -79,11 +79,13 @@
 </item>
 
 <item>
-<title>Trolls</title>
+<title>Trolls 3 (2023)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44b6e084df09a35a11a99a4ceec22f268775dbf</link>
-<thumbnail>https://abutretorrents.com/imagens/o-dom-da-serpente-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info>Dina, uma jovem que herdou a habilidade sobrenatural de ver os pecados e as fraquezas das outras pessoas olhando nos olhos precisa salvar sua família. Com a ajuda do pai, que ela não conhecia, Dina terá que escolher entre o seu próprio dom e a magia negra.</info>
+<thumbnail>https://www.cinesystem.com.br/filmes/images/poster/trolls-3-juntos-novamente.jpg</thumbnail>
+<fanart></fanart>
+<info>Branch e Poppy embarcam em uma jornada angustiante e emocionante para salvar um irmão que foi sequestrado por um par de vilões pop-star.</info>
 </item>
+
 
 
 
