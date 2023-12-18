@@ -17,9 +17,18 @@
 
 <channel>
 <name>3ª Temporada</name>
-<thumbnail>https://static.wikia.nocookie.net/vozesportuguesas/images/3/3a/Poster-digital-the-thundermans-D_NQ_NP_883510-MLB32183052464_092019-F.jpg/revision/latest?cb=20230104210012&path-prefix=pt</thumbnail>
+<thumbnail>https://media.fstatic.com/M5vqolV1hu8YVk3zo1f7_60WN-A=/322x478/smart/filters:format(webp)/media/movies/covers/2021/05/images_7_j9UEFZQ.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/ditolopes29/miranhafilmes/main/thundermans3.txt</externallink>
 <fanart>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</fanart>
 <info></info>
 </channel>
+
+<channel>
+<name>4ª Temporada</name>
+<thumbnail>https://media.fstatic.com/UuJyXCrHuV083cWGr7GLzGhOJjo=/322x478/smart/filters:format(webp)/media/movies/covers/2021/05/images_11.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/ditolopes29/miranhafilmes/main/thundermans4.txt</externallink>
+<fanart>http://lxls.mx:80/images/709e4f527990ccfa9724bc842de30d92.jpg</fanart>
+<info></info>
+</channel>
+
 </channels>
