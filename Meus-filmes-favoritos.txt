@@ -98,7 +98,7 @@
 <title>O Segredo dos animais (2006)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a069c0522fc9c5920a3e147dcc9ccea924e5c72</link>
 <thumbnail>https://static.wikia.nocookie.net/dublagem/images/d/d4/O_Segredo_dos_Animais.jpeg/revision/latest/thumbnail/width/360/height/360?cb=20230801104321&path-prefix=pt-br</thumbnail>
-<fanart></fanart>
+<fanart>https://akamai.sscdn.co/uploadfile/letras/fotos/2/f/d/b/2fdb66e16a9041b0f984be82004e772f.jpg</fanart>
 <info>O touro Otis gosta de cantar e tocar como todos os outros animais do celeiro quando o agricultor está fora. No entanto, o bovino despreocupado deve encontrar coragem para ser um líder quando, inesperadamente, ele se encontra em uma posição de grande responsabilidade.</info>
 </item>
 
