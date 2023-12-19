@@ -1,21 +1,39 @@
 <item>
-    <title>FormiguinhaZ (1998)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c47b0d1f59fee130b1641663f0bef8f18303abc6</link>
-    <thumbnail>https://static.wikia.nocookie.net/dublagem/images/a/a7/FormiguinhaZ.jpeg/revision/latest?cb=20220612201655&path-prefix=pt-br</thumbnail>
-    <fanart>https://inmagi.sfo2.digitaloceanspaces.com/media/797533/6eleaikeuXNtPh3llb0LK2Iy2r4.jpg</fanart>
-    <info>
-        Z é uma formiga operária que tenta conciliar sua individualidade com a ética do trabalho comunitário do formigueiro. Ele conhece e se apaixona pela princesa Bala, a herdeira do formigueiro, e arma um plano para reencontrá-la. Porém, o maligno General Mandíbula ameaça exterminar toda a população trabalhadora e cabe a Z salvar a colônia de formigas das conspirações traiçoeiras de Mandíbula.
-    </info>
-    <year>1998</year>
+<title>FormiguinhaZ (1998)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c47b0d1f59fee130b1641663f0bef8f18303abc6</link>
+<thumbnail>https://static.wikia.nocookie.net/dublagem/images/a/a7/FormiguinhaZ.jpeg/revision/latest?cb=20220612201655&path-prefix=pt-br</thumbnail>
+<fanart>https://inmagi.sfo2.digitaloceanspaces.com/media/797533/6eleaikeuXNtPh3llb0LK2Iy2r4.jpg</fanart>
+<info>Z é uma formiga operária que tenta conciliar sua individualidade com a ética do trabalho comunitário do formigueiro. Ele conhece e se apaixona pela princesa Bala, a herdeira do formigueiro, e arma um plano para reencontrá-la. Porém o maligno General Mandíbula ameaça exterminar toda a população trabalhadora e cabe a Z salvar a colônia de formigas das conspirações traiçoeiras de Mandíbula.</info>
+<genre>Animação</genre>
+<release_date>1998</release_date>
 </item>
 
 <item>
-    <title>A Fuga das Galinhas</title>
+    <title>A Fuga das Galinhas (2000)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14a5d9dadbf37fdb494ef8bd03cba05d43ed3f31</link>
     <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSD0K3CqsuJoV24fVreuQZOy7xToh9w5D6LZRQ-oMDf9IpjVD</thumbnail>
     <fanart>https://aventurasnahistoria.uol.com.br/media/uploads/curiosidades/a_fuga_das_galinhas.jpg</fanart>
     <info>No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras.</info>
     <genre>Animação</genre>
-<year>2000</year>
+    <release_date>2000</release_date>
 </item>
 
+<item>
+    <title>A Fuga das Galinhas (2000)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14a5d9dadbf37fdb494ef8bd03cba05d43ed3f31</link>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSD0K3CqsuJoV24fVreuQZOy7xToh9w5D6LZRQ-oMDf9IpjVD</thumbnail>
+    <fanart>https://aventurasnahistoria.uol.com.br/media/uploads/curiosidades/a_fuga_das_galinhas.jpg</fanart>
+    <info>No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras.</info>
+    <genre>Animação</genre>
+    <release_date>2000</release_date>
+</item>
+
+<item>
+    <title>Shrek (2001)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:994f255db01b839d4e829844941d3c43346e3efd</link>
+    <thumbnail>https://play-lh.googleusercontent.com/yyk9c52Ql7jHHa_Rjtw7nZ_S_JIdMMSv2VPgZd2K8k1meHw6aYQ80YOUzoztqKHqbaE=w240-h480-rw</thumbnail>
+    <fanart>https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX5oX6Rdk0rdkKOeMM7L0J2n0pYuQqJHafx1u9f7uz02SZTdquyPvZZT55PS3hE8d_DePTBf4E3M4n1dIA7vzKmfJHR-rqaCW-CH.jpg?r=a3c</fanart>
+    <info>Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo pra resgatar uma princesa.</info>
+    <genre>Animação</genre>
+    <release_date>2000</release_date>
+</item>
