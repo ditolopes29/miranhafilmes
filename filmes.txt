@@ -17,4 +17,11 @@
 </channel>
 </channels>
 
-
+<channel>
+<name>Meus filmes</name>
+<thumbnail>https://assets.gamearena.gg/wp-content/uploads/2023/10/29211813/dreamworks-animation-logo.webp</thumbnail>
+<externallink>https://raw.githubusercontent.com/ditolopes29/miranhafilmes/main/dreamworks-animation.txt</externallink>
+<fanart>https://www.cartoonbrew.com/wp-content/uploads/2023/10/dreamworksanimation_productionmodel.jpg</fanart>
+<info>DreamWorks Animation LLC é um estúdio de animação americano e uma subsidiária da NBCUniversal. Está sediada em Glendale, Califórnia, e produz filmes animados, programas de televisão e jogos virtuais online.</info>
+</channel>
+</channels>
