@@ -15,10 +15,9 @@
 <fanart>https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/09/16/1265018637-filmes-homem-aranha.jpg</fanart>
 <info></info>
 </channel>
-</channels>
 
 <channel>
-<name>Meus filmes</name>
+<name>DreamWorks Animation</name>
 <thumbnail>https://assets.gamearena.gg/wp-content/uploads/2023/10/29211813/dreamworks-animation-logo.webp</thumbnail>
 <externallink>https://raw.githubusercontent.com/ditolopes29/miranhafilmes/main/dreamworks-animation.txt</externallink>
 <fanart>https://www.cartoonbrew.com/wp-content/uploads/2023/10/dreamworksanimation_productionmodel.jpg</fanart>
