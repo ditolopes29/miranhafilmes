@@ -1,11 +1,12 @@
 <item>
-<title>FormiguinhaZ</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c47b0d1f59fee130b1641663f0bef8f18303abc6</link>
-<thumbnail>https://static.wikia.nocookie.net/dublagem/images/a/a7/FormiguinhaZ.jpeg/revision/latest?cb=20220612201655&path-prefix=pt-br</thumbnail>
-<fanart>https://inmagi.sfo2.digitaloceanspaces.com/media/797533/6eleaikeuXNtPh3llb0LK2Iy2r4.jpg</fanart>
-<info>Z é uma formiga operária que tenta conciliar sua individualidade com a ética do trabalho comunitário do formigueiro. Ele conhece e se apaixona pela princesa Bala, a herdeira do formigueiro, e arma um plano para reencontrá-la. Porém o maligno General Mandíbula ameaça exterminar toda a população trabalhadora e cabe a Z salvar a colônia de formigas das conspirações traiçoeiras de Mandíbula.</info>
-<genre>Animação</genre>
-<release_date>1998</release_date>
+    <title>FormiguinhaZ (1998)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c47b0d1f59fee130b1641663f0bef8f18303abc6</link>
+    <thumbnail>https://static.wikia.nocookie.net/dublagem/images/a/a7/FormiguinhaZ.jpeg/revision/latest?cb=20220612201655&path-prefix=pt-br</thumbnail>
+    <fanart>https://inmagi.sfo2.digitaloceanspaces.com/media/797533/6eleaikeuXNtPh3llb0LK2Iy2r4.jpg</fanart>
+    <info>
+        Z é uma formiga operária que tenta conciliar sua individualidade com a ética do trabalho comunitário do formigueiro. Ele conhece e se apaixona pela princesa Bala, a herdeira do formigueiro, e arma um plano para reencontrá-la. Porém, o maligno General Mandíbula ameaça exterminar toda a população trabalhadora e cabe a Z salvar a colônia de formigas das conspirações traiçoeiras de Mandíbula.
+    </info>
+    <year>1998</year>
 </item>
 
 <item>
@@ -15,6 +16,6 @@
     <fanart>https://aventurasnahistoria.uol.com.br/media/uploads/curiosidades/a_fuga_das_galinhas.jpg</fanart>
     <info>No galinheiro de uma fazenda inglesa dos anos 1950, galinhas cumprem sua função e vivem pacatamente sonhando com uma vida melhor. Uma delas, Ginger, sonha com a liberdade e planeja sair voando dali junto com suas companheiras.</info>
     <genre>Animação</genre>
-    <release_date>2000</release_date>
+<year>2000</year>
 </item>
 
