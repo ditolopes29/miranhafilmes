@@ -122,8 +122,14 @@
 <title>Barbie (2023)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28db597ad1a2af52d4b27f46c86a3837b39bb987</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/82/Barbie_%282023%29.jpg</thumbnail>
-<fanart>hhttps://media.guiame.com.br/archives/2023/07/12/4272397684-barbie-filme.jpeg</fanart>
+<fanart>https://media.guiame.com.br/archives/2023/07/12/4272397684-barbie-filme.jpeg</fanart>
 <info>Depois de ser expulsa da Barbieland por ser uma boneca de aparência menos do que perfeita, Barbie parte para o mundo humano em busca da verdadeira felicidade.</info>
 </item>
 
-
+<item>
+<title>Gato de Botas (2011)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38bb38aa04b8b62a834fca00b8dad7dd4abfeba3</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/89/67/23/20061404.jpg</thumbnail>
+<fanart>https://classic.exame.com/wp-content/uploads/2022/12/Gato-de-Botas.jpg?quality=70&strip=info&w=1200</fanart>
+<info>Antes de conhecer Shrek e sua turma, Gato de Botas vive uma grande aventura ao lado de Humpty Dumpty e Kitty Pata Mansa. Dispostos a roubar os feijões mágicos do casal fora da lei Jack e Jill, o trio quer mesmo é conseguir a famosa gansa que bota ovos de ouro. Porém, algumas coisas não estavam nos planos, e Gato vai descobrir, meio atrasado, que tem um grande problema pela frente para conseguir limpar o que ficou para trás: a sua honra.</info>
+</item>
