@@ -118,4 +118,12 @@
 <info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajuda Elsa a compreender a origem de seus poderes.</info>
 </item>
 
+<item>
+<title>Barbie (2023)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28db597ad1a2af52d4b27f46c86a3837b39bb987</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/82/Barbie_%282023%29.jpg</thumbnail>
+<fanart>hhttps://media.guiame.com.br/archives/2023/07/12/4272397684-barbie-filme.jpeg</fanart>
+<info>Depois de ser expulsa da Barbieland por ser uma boneca de aparência menos do que perfeita, Barbie parte para o mundo humano em busca da verdadeira felicidade.</info>
+</item>
+
 
