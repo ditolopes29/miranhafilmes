@@ -99,7 +99,7 @@
 
 <item>
     <title>Os Pinguins de Madagascar (2014)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:utwmp3o4doc6hi7l5a43tkzui64bnxm4</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BB1B068CE17049BAC48693B889B8A775CB6D3ED9&dn=Os%20Pinguins%20De%20Madagascar%20%282015%29%20BRrip%20Blu-Ray%201080p%205.1%20Ch%20Dublado%20-%20AndreTPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
     <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjMNFkBFyX3uL8eZ0xG39kxySpIDnr-4EuDjYB8r29pGR2TZD</thumbnail>
     <fanart>https://sobresagas.com.br/wp-content/uploads/2022/05/Sessao-da-Tarde-Hoje-Animacao-Os-Pinguins-De-Madagascar-inicia-semana-da-programacao.jpg</fanart>
     <info>Os valentes pinguins Capitão, Kowalski, Rico e Recruta se unem a uma força de elite, chamada Vento do Norte, para impedir que o vilão Dr. Octavius Brine acabe com os pinguins do mundo todo.</info>
