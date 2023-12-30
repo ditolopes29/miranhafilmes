@@ -97,7 +97,14 @@
     <genre>Animação</genre>
 </item>
 
-
+<item>
+    <title>Os Pinguins de Madagascar (2014)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:utwmp3o4doc6hi7l5a43tkzui64bnxm4</link>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKjMNFkBFyX3uL8eZ0xG39kxySpIDnr-4EuDjYB8r29pGR2TZD</thumbnail>
+    <fanart>https://sobresagas.com.br/wp-content/uploads/2022/05/Sessao-da-Tarde-Hoje-Animacao-Os-Pinguins-De-Madagascar-inicia-semana-da-programacao.jpg</fanart>
+    <info>Os valentes pinguins Capitão, Kowalski, Rico e Recruta se unem a uma força de elite, chamada Vento do Norte, para impedir que o vilão Dr. Octavius Brine acabe com os pinguins do mundo todo.</info>
+    <genre>Animação</genre>
+</item>
 
 
 
