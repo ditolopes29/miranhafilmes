@@ -27,3 +27,13 @@
     <genre>Animação</genre>
     <release_date>2000</release_date>
 </item>
+
+<item>
+    <title>Como Treinar o Seu Dragão (2010)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:920ebbafc043e819112fdc09d9aef67d0de96382</link>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv4X7gI5uXtGZKL_DIJHkOliRTOwp6NjXlnRXEGXJAM_1dcld2</thumbnail>
+    <fanart>https://i0.wp.com/www.tecnoveste.com.br/wp-content/uploads/2021/01/Filme-Como-treinar-o-seu-dragao.jpg?fit=512%2C288&ssl=1</fanart>
+    <info>Soluço é um jovem viking que não tem capacidade para lutar contra os dragões, como é a tradição local. Sua vida muda quando ele ajuda um dragão que lhe mostra toda a verdade. Juntos, eles tentam provar que dragões e humanos podem ser amigos.</info>
+    <genre>Animação</genre>
+    <release_date>2010</release_date>
+</item>
