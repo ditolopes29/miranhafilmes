@@ -50,7 +50,7 @@
 
 <item>
     <title>Como Treinar o Seu Dragão 3 (2019)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eb7709a26f9f98abb9112291c883c5ade64f2d1</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:492783def6c84b8a511ce4d0f6fe2d710970f289</link>
     <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcytHdBKs16tllk6bW5DCTBHNins7xDNOjPwjXvb4uTy338kF4</thumbnail>
     <fanart>https://cinepop.com.br/wp-content/uploads/2023/01/How-To-Train-Your-Dragon-3-The-Hidden-World-4k-Wallpaper-3840x2160-e1548617478456.jpg</fanart>
     <info>Soluço busca realizar seu grande sonho de encontrar um lar pacífico onde os dragões possam viver em segurança. Lá, Banguela descobre uma companheira, assim como ele, mas um tanto selvagem. Mas é quando o perigo começa a rondar o lar, que a dupla Banguela e Soluço é testada e precisa tomar decisões difíceis para salvar suas espécies.</info>
