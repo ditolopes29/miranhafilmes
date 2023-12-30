@@ -107,6 +107,15 @@
 </item>
 
 <item>
+    <title>Wallace & Gromit - A Batalha dos Vegetais (2005)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZJVSHNNKAX75HY5CWECY4Z7Q4KEHZI2&dn=Wallace.e.Gromit.A.Batalha.dos.Vegetais.2005.FULLSCREEN.1080p.WEBRip.H264.AC3.5.1.DUAL-MLD-BLUDV</link>
+    <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSejYbymhJ-kROtfMCxNPjnDC43krU5-sNvwIdJyJ7rG_tO1Ucb</thumbnail>
+    <fanart>https://observatoriodatv.uol.com.br/wp-content/uploads/2020/01/wallace-e-gromit-a-batalha-dos-vegetais.jpg</fanart>
+    <info>O bairro onde moram o pacato inventor Wallace (Peter Sallis) e seu fiel cão Gromit está em polvorosa com a proximidade do concurso anual de legumes gigantes, organizado pela bela e solteira Lady Tottington (Helena Bonham Carter). Para proteger as plantações de coelhos famintos, Wallace inventa um equipamento que captura os animais sem machucá-los. O problema é o que fazer com o excesso de coelhos, que não demoram a superpovoar a casa do inventor. A dupla tem ainda de lidar com uma misteriosa fera vegetariana, que está destruindo as plantações à noite. Agora a honra de Wallace está em jogo, pois ele precisa capturá-la antes do arrogante Victor Quartermaine (Ralph Fiennes), que está de olho na fortuna de Lady Tottington.</info>
+    <genre>Animação</genre>
+</item>
+
+<item>
     <title>Os Sem-Floresta (2006)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQAAKIRURKICYTHCP5UYKVLNZWDYJYIS&dn=%5BACESSE...HD-ELITE.ME%5DOs%20Sem-Floresta%20(2006)%20BluRay%201080p%20Dual%20%C3%81udio</link>
     <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL1-Kw7xDV5PRTGX6QwMH43pMPbspXQwcJTLxsZuy_XnoYE8t9</thumbnail>
@@ -124,8 +133,14 @@
     <genre>Animação</genre>
 </item>
 
-
-
+<item>
+    <title>Monstros vs. Alienígenas (2009)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1045e3ad256d393962b3f610afbac4ba869e0ae2&amp;dn=Monsters.Vs.Aliens.3D.2009.1080p.BluRay.Half-OU.AC3.x264-DUAL-HDMaNiAcS-Weliasmr</link>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0_higpoMGeQwQBSQv6A5IovmPcas_LEfK-7DI_FxHP82Btgv</thumbnail>
+    <fanart>https://media.gazetadopovo.com.br/2009/04/20cd2bf1dd69b9a54a534d6eb317675e-gpLarge.jpg</fanart>
+    <info>Susan Murphy é atingida por um meteoro e se transforma em uma gigante. O governo dá um novo nome a ela. Ela acaba sendo levada para uma área restrita e mantida com outros monstros. Um dia, quando outros alienígenas chegam à Terra, o governo pede a ajuda de Susan e dos demais monstros para salvar o planeta.</info>
+    <genre>Animação</genre>
+</item>
 
 
 
