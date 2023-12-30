@@ -40,7 +40,7 @@
 
 <item>
     <title>Como Treinar o Seu Dragão 2 (2014)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5eb7709a26f9f98abb9112291c883c5ade64f2d1</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e515f6678561d931f469d35fab036a64df8a5cd</link>
     <thumbnail>https://br.web.img2.acsta.net/pictures/14/05/27/21/27/291561.jpg</thumbnail>
     <fanart>https://s2.glbimg.com/SA37mr5VQcA62t0Ho_X6P8srg6o=/s.glbimg.com/jo/g1/f/original/2014/06/18/1dragao.jpg</fanart>
     <info>Cinco anos se passaram desde que Soluço estabeleceu a paz com os dragões e vive em harmonia, na Ilha de Berk, com Banguela. Eles voam, apostam corridas e se divertem muito. Em uma destas aventuras, descobrem uma caverna secreta cheia de dragões. Agora, a dupla luta para proteger Berk de um guerreiro perigoso, chamado Drago Bludvist, que deseja controlar todos os dragões existentes.</info>
