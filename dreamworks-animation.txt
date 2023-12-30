@@ -116,11 +116,11 @@
 </item>
 
 <item>
-    <title>Os Sem-Floresta (2006)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQAAKIRURKICYTHCP5UYKVLNZWDYJYIS&dn=%5BACESSE...HD-ELITE.ME%5DOs%20Sem-Floresta%20(2006)%20BluRay%201080p%20Dual%20%C3%81udio</link>
-    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL1-Kw7xDV5PRTGX6QwMH43pMPbspXQwcJTLxsZuy_XnoYE8t9</thumbnail>
-    <fanart>https://m.media-amazon.com/images/S/pv-target-images/fb6664777d0f8a197cf18c5410d5231eaafd9d27edee2c3bd2aba31db01483dd.jpg</fanart>
-    <info>Animais de uma floresta acordam do período de hibernação e descobrem que têm vários vizinhos humanos que vivem nas proximidades. Inicialmente, eles ficam com medo da novidade, mas, com o tempo, o guaxinim oportunista RJ ensina os humanos a explorar as maravilhas comestíveis que deixam para trás.</info>
+    <title>Por Água Abaixo (2006)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NGY57N4YHFYNJOCGV4NQNQRCGYG7HC3C&dn=Por.%C3%81gua.Abaixo.2006.FULLSCREEN.1080p.WEBRip.H264.AC3.5.1.DUAL-MLD-BLUDV</link>
+    <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ53tBVY_s981kshywvUiEBSV_QPGcoif7Af9gtrICBPb0qBQUJ</thumbnail>
+    <fanart>https://isabelaboscov.files.wordpress.com/2016/07/flushed_feat.jpg?w=1038&h=520&crop=1</fanart>
+    <info>Roddy St. James, o mimado ratinho de estimação, acha que já chegou lá…até que entra literalmente pelo cano e vai parar num submundo de rãs ninjas, ratos-capangas e lesmas cantoras. “Pra rolar de rir.”, diz o Jornal Hoje em Dia de Belo Horizonte. Esta surpreendente a criativa aventura cômica é uma enxurrada de diversão tanto para crianças quanto para adultos.</info>
     <genre>Animação</genre>
 </item>
 
