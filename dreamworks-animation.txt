@@ -106,9 +106,23 @@
     <genre>Animação</genre>
 </item>
 
+<item>
+    <title>Os Sem-Floresta (2006)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQAAKIRURKICYTHCP5UYKVLNZWDYJYIS&dn=%5BACESSE...HD-ELITE.ME%5DOs%20Sem-Floresta%20(2006)%20BluRay%201080p%20Dual%20%C3%81udio</link>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL1-Kw7xDV5PRTGX6QwMH43pMPbspXQwcJTLxsZuy_XnoYE8t9</thumbnail>
+    <fanart>https://m.media-amazon.com/images/S/pv-target-images/fb6664777d0f8a197cf18c5410d5231eaafd9d27edee2c3bd2aba31db01483dd.jpg</fanart>
+    <info>Animais de uma floresta acordam do período de hibernação e descobrem que têm vários vizinhos humanos que vivem nas proximidades. Inicialmente, eles ficam com medo da novidade, mas, com o tempo, o guaxinim oportunista RJ ensina os humanos a explorar as maravilhas comestíveis que deixam para trás.</info>
+    <genre>Animação</genre>
+</item>
 
-
-
+<item>
+    <title>Os Sem-Floresta (2006)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQAAKIRURKICYTHCP5UYKVLNZWDYJYIS&dn=%5BACESSE...HD-ELITE.ME%5DOs%20Sem-Floresta%20(2006)%20BluRay%201080p%20Dual%20%C3%81udio</link>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL1-Kw7xDV5PRTGX6QwMH43pMPbspXQwcJTLxsZuy_XnoYE8t9</thumbnail>
+    <fanart>https://m.media-amazon.com/images/S/pv-target-images/fb6664777d0f8a197cf18c5410d5231eaafd9d27edee2c3bd2aba31db01483dd.jpg</fanart>
+    <info>Animais de uma floresta acordam do período de hibernação e descobrem que têm vários vizinhos humanos que vivem nas proximidades. Inicialmente, eles ficam com medo da novidade, mas, com o tempo, o guaxinim oportunista RJ ensina os humanos a explorar as maravilhas comestíveis que deixam para trás.</info>
+    <genre>Animação</genre>
+</item>
 
 
 
