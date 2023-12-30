@@ -57,3 +57,13 @@
     <genre>Animação</genre>
     <release_date>2019</release_date>
 </item>
+
+<item>
+    <title>O Espanta Tubarões (2004)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HZWZVNZVBRU7ENTHHN2QOR5ZQA3I33IR&dn=O.Espanta.Tubar%C3%B5es.2004.FULLSCREEN.1080p.WEBRip.H264.AC3.5.1.DUAL-MLD-BLUDV</link>
+    <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe82n27THQqz8s3OM6jNeQKcdK64Htj72ALIZMxhOXXRIuloWA</thumbnail>
+    <fanart>https://www.themoviedb.org/t/p/original/fGuu7bmpM7eFjHcU88SsQdtP5JF.jpg</fanart>
+    <info>Oscar é um peixe com grandes aspirações. Quando o tubarão Frankie, que tem ligação com a máfia, é morto acidentalmente, Oscar inventa uma história com Lenny, o irmão de Frankie, que foi ele quem assassinou o tubarão. De repente, aclamado por seus irmãos aquáticos, Oscar tem peixes maiores para fritar quando o pai de Frankie, o chefão mafioso Don Lino, despacha seus capangas para rastrear o assassino de seu filho.</info>
+    <genre>Animação</genre>
+    <release_date>2004</release_date>
+</item>
