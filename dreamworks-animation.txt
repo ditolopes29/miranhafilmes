@@ -218,8 +218,16 @@
 <title>Trolls 3 (2023)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44b6e084df09a35a11a99a4ceec22f268775dbf</link>
 <thumbnail>https://www.cinesystem.com.br/filmes/images/poster/trolls-3-juntos-novamente.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://curitibacult.com.br/wp-content/uploads/2023/10/critica-trolls-3.jpg</fanart>
 <info>Branch e Poppy embarcam em uma jornada angustiante e emocionante para salvar um irmão que foi sequestrado por um par de vilões pop-star.</info>
+</item>
+
+<item>
+<title>As Aventuras do Capitão Cueca: O Filme</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44b6e084df09a35a11a99a4ceec22f268775dbf</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThZW1mDFLMVG858ivEAdRx3n58nV6VoYg5W7bBoV6CqaYCBMFJ</thumbnail>
+<fanart>https://poltronanerd.com.br/wp-content/uploads/2017/10/captainunderpants-1280-1496339994174_1280w.jpg</fanart>
+<info>George Beard e Harold Hutchins são melhores amigos que passam os seus dias criando histórias em quadradinhos e sonhando com as peças que vão pregar. Um dia, acidentalmente hipnotizam o diretor da escola, levando-o a acreditar que ele é o Capitão Cueca, um super-herói completamente tolo cujo traje consiste em roupa íntima e uma capa. Como se isso não fosse ruim o suficiente, o novo professor da escola deles é um cientista maluco que caiu em desgraça e está disposto a vingar-se na escola.</info>
 </item>
 
 
