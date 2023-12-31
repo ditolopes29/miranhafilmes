@@ -135,7 +135,7 @@
 
 <item>
     <title>Monstros vs. Alienígenas (2009)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1045e3ad256d393962b3f610afbac4ba869e0ae2&amp;dn=Monsters.Vs.Aliens.3D.2009.1080p.BluRay.Half-OU.AC3.x264-DUAL-HDMaNiAcS-Weliasmr</link>
+    <link>http://tv.com.vc:80/movie/taina/123/607669.mp4</link>
     <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv0_higpoMGeQwQBSQv6A5IovmPcas_LEfK-7DI_FxHP82Btgv</thumbnail>
     <fanart>https://media.gazetadopovo.com.br/2009/04/20cd2bf1dd69b9a54a534d6eb317675e-gpLarge.jpg</fanart>
     <info>Susan Murphy é atingida por um meteoro e se transforma em uma gigante. O governo dá um novo nome a ela. Ela acaba sendo levada para uma área restrita e mantida com outros monstros. Um dia, quando outros alienígenas chegam à Terra, o governo pede a ajuda de Susan e dos demais monstros para salvar o planeta.</info>
@@ -144,7 +144,7 @@
 
 <item>
     <title>Megamente (2010)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:101008f63046f45e2348d7679a14a6757640fc89</link>
+    <link>http://tv.com.vc:80/movie/taina/123/607639.mp4</link>
     <thumbnail>https://pbs.twimg.com/media/FLV_ldWXMAo8uTJ.jpg:large</thumbnail>
     <fanart>https://f.i.uol.com.br/folha/folhinha/images/10335623.jpeg</fanart>
     <info>Embora seja o vilão mais brilhante que o mundo já conheceu, Megamente é o menos bem-sucedido. Derrotado repetidamente pelo heroico Metro Man, ele fica surpreso quando finalmente consegue derrotar o seu inimigo de longa data. Porém, sem Metro Man, Megamente não tem nenhum propósito na vida, então ele cria um novo adversário que logo decide que é mais divertido ser um vilão que um herói.</info>
@@ -180,7 +180,7 @@
 
 <item>
     <title>Turbo (2013)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24C0B88286705AD82921BFD863801CD1AEE1B52F&dn=Turbo.2013.PROPER.BDRip.XviD.Dual.Audio-MAXi&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+    <link>http://tv.com.vc:80/movie/taina/123/610151.mp4</link>
     <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcdXgxPW9ENiuLgJnE4RYm9hdIAN5qLllP9RY_vngI7oqP75Dy</thumbnail>
     <fanart>https://s2.glbimg.com/w_IFLlcGs5ICkaFnAQRFPpmnNY8=/s.glbimg.com/og/rg/f/original/2016/09/23/turbook2.jpg</fanart>
     <info>Um caracol tem a chance de escapar de sua vida em ritmo lento e participar da 500 Milhas de Indianápolis quando um estranho acidente lhe dá o poder da supervelocidade.</info>
@@ -223,14 +223,26 @@
 </item>
 
 <item>
-<title>As Aventuras do Capitão Cueca: O Filme</title>
+<title>As Aventuras do Capitão Cueca: O Filme (2017)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:268ad97c79a4ac3c9130d286463de38a46c7213b</link>
 <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThZW1mDFLMVG858ivEAdRx3n58nV6VoYg5W7bBoV6CqaYCBMFJ</thumbnail>
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2017/10/captainunderpants-1280-1496339994174_1280w.jpg</fanart>
 <info>George Beard e Harold Hutchins são melhores amigos que passam os seus dias criando histórias em quadradinhos e sonhando com as peças que vão pregar. Um dia, acidentalmente hipnotizam o diretor da escola, levando-o a acreditar que ele é o Capitão Cueca, um super-herói completamente tolo cujo traje consiste em roupa íntima e uma capa. Como se isso não fosse ruim o suficiente, o novo professor da escola deles é um cientista maluco que caiu em desgraça e está disposto a vingar-se na escola.</info>
 </item>
 
+<item>
+<title>O Poderoso Chefinho (2017)</title>
+<link>http://tv.com.vc:80/movie/taina/123/608292.mp4</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/16/10/18/16/29/576071.jpg</thumbnail>
+<fanart>https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2017/04/12/587762/20170411182032668114u.jpg</fanart>
+<info>Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força.</info>
+</item>
 
-
-
+<item>
+<title>O Poderoso Chefinho 2: Negócios da Família</title>
+<link>http://tv.com.vc:80/movie/taina/123/608298.mp4</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2-DaM8OpyTc7tBahPyUcPZ_PmvsopwsN-42T_AKlkF_-KgEu_</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2021/08/o-poderoso-chefinho-2-.jpg</fanart>
+<info>Tim e Ted cresceram e se tornaram adultos com realidades opostas. Porém, os dois irmãos são recrutadas por uma das filhas de Tim, que também é uma agente da Babycorp e precisa da ajuda da dupla para derrotar uma nova ameaça.</info>
+</item>
 
