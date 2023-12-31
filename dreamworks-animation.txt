@@ -171,7 +171,7 @@
 
 <item>
     <title>Os Croods 2: Uma Nova Era (2020)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PEL5PERATM7JO36YYN4H4N2FF4ACTH2M&dn=Os%20Croods%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JD6INQCNIITAR5YTYKM6X522Z3R5NMBF&dn=Os.Croods.2.Uma.Nova.Era.2021.1080p.BluRay.DUAL.COMANDO.TO</link>
     <thumbnail>https://cinecriticas.com.br/wp-content/uploads/2021/01/Crood-2-1.jpg</thumbnail>
     <fanart>https://www.intofilm.org/intofilm-production/8753/scaledcropped/3000x1688/resources/8753/the-croods-image-4-universal.jpg</fanart>
     <info>Em busca de um habitat mais seguro, a família pré-histórica Crood descobre um paraíso isolado que atende a todas as suas necessidades. Infelizmente, eles também devem aprender a viver com os Bettermans, uma família que está alguns degraus acima dos Croods na escada evolutiva. À medida que as tensões entre os novos vizinhos começam a aumentar, uma nova ameaça logo impulsiona os dois clãs em uma aventura épica que os força a abraçar suas diferenças e se fortalecerem e sobreviverem juntos.</info>
