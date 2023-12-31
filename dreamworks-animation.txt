@@ -190,7 +190,7 @@
 <item>
     <title>As Aventuras de Peabody & Sherman (2014)</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0015DFD8320A5ACA11E1FFA50F9DAF8169589D98&dn=As.Aventuras.De.Peabody.E.Sherman.2014.720p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
-    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKmC-j0S5BlTv5l-Lz40zNX706efEpigij46WyP9J9dxOvUDzrhttps://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKmC-j0S5BlTv5l-Lz40zNX706efEpigij46WyP9J9dxOvUDzr</thumbnail>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKmC-j0S5BlTv5l-Lz40zNX706efEpigij46WyP9J9dxOvUDzr</thumbnail>
     <fanart>https://cronicodecinema.com/wp-content/uploads/2014/09/Peabody-Sherman-670.jpg</fanart>
     <info>Mr. Peabody, um cão muito inteligente, resolve adotar um bebê humano, Sherman. Após ganhar o prêmio Nobel, ele inventa uma máquina do tempo. Não demora muito para que ele e seu filho adotivo viagem pelo tempo e vivenciem eventos que mudaram o mundo, além de interagir com grandes personagens históricos. Porém, quando Sherman quebra as regras da viagem no tempo, nossos dois heróis entrarão em uma corrida para reparar a história e salvar o futuro.</info>
     <genre>Animação</genre>
