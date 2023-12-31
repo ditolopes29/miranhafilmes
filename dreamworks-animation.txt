@@ -142,5 +142,57 @@
     <genre>Animação</genre>
 </item>
 
+<item>
+    <title>Megamente (2010)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:101008f63046f45e2348d7679a14a6757640fc89</link>
+    <thumbnail>https://pbs.twimg.com/media/FLV_ldWXMAo8uTJ.jpg:large</thumbnail>
+    <fanart>https://f.i.uol.com.br/folha/folhinha/images/10335623.jpeg</fanart>
+    <info>Embora seja o vilão mais brilhante que o mundo já conheceu, Megamente é o menos bem-sucedido. Derrotado repetidamente pelo heroico Metro Man, ele fica surpreso quando finalmente consegue derrotar o seu inimigo de longa data. Porém, sem Metro Man, Megamente não tem nenhum propósito na vida, então ele cria um novo adversário que logo decide que é mais divertido ser um vilão que um herói.</info>
+    <genre>Animação</genre>
+</item>
+
+<item>
+    <title>A Origem Dos Guardiões (2012)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B16570E6AD204AF3B43E0CB14372B2E3747380B8&dn=A%20Origem%20dos%20Guardi%c3%b5es%202018%20%281080p%29%20DUBLADO%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+    <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCnfioEqqMtuG9_O4U20fUc-K23y3nyHOlkNEwwslhHceS4M8X</thumbnail>
+    <fanart>https://media.semprefamilia.com.br/semprefamilia/2015/10/divulgao-e1444356963526-33542ec4.jpg</fanart>
+    <info>Jack Frost, um garoto que controla o inverno, se junta ao seleto time dos Guardiões Imortais para impedir Breu, o bicho-papão, de transformar todos os sonhos das crianças em pesadelo e usar seus poderes maquiavélicos para governar o mundo.</info>
+    <genre>Animação</genre>
+</item>
+
+<item>
+    <title>Os Croods (2013)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PEL5PERATM7JO36YYN4H4N2FF4ACTH2M&dn=Os%20Croods%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+    <thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgRE_Z0oWfnhW0bwIaBjvG574gUZtNiShhA8U9S1gw8HKuYxb8</thumbnail>
+    <fanart>https://www.planocritico.com/wp-content/uploads/2014/02/os-croods-2013-plano-critico.jpg</fanart>
+    <info>Família da pré-história vê sua caverna ser destruída. Depois disso, os Croods partem em uma aventura em busca de um novo lugar para morar, liderados por um garoto muito imaginativo que lhes ajuda a desbravar um mundo inteiramente novo.</info>
+    <genre>Animação</genre>
+</item>
+
+<item>
+    <title>Os Croods 2: Uma Nova Era (2020)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PEL5PERATM7JO36YYN4H4N2FF4ACTH2M&dn=Os%20Croods%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+    <thumbnail>https://cinecriticas.com.br/wp-content/uploads/2021/01/Crood-2-1.jpg</thumbnail>
+    <fanart>https://www.intofilm.org/intofilm-production/8753/scaledcropped/3000x1688/resources/8753/the-croods-image-4-universal.jpg</fanart>
+    <info>Em busca de um habitat mais seguro, a família pré-histórica Crood descobre um paraíso isolado que atende a todas as suas necessidades. Infelizmente, eles também devem aprender a viver com os Bettermans, uma família que está alguns degraus acima dos Croods na escada evolutiva. À medida que as tensões entre os novos vizinhos começam a aumentar, uma nova ameaça logo impulsiona os dois clãs em uma aventura épica que os força a abraçar suas diferenças e se fortalecerem e sobreviverem juntos.</info>
+    <genre>Animação</genre>
+</item>
+
+<item>
+    <title>Turbo (2013)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24C0B88286705AD82921BFD863801CD1AEE1B52F&dn=Turbo.2013.PROPER.BDRip.XviD.Dual.Audio-MAXi&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+    <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcdXgxPW9ENiuLgJnE4RYm9hdIAN5qLllP9RY_vngI7oqP75Dy</thumbnail>
+    <fanart>https://s2.glbimg.com/w_IFLlcGs5ICkaFnAQRFPpmnNY8=/s.glbimg.com/og/rg/f/original/2016/09/23/turbook2.jpg</fanart>
+    <info>Um caracol tem a chance de escapar de sua vida em ritmo lento e participar da 500 Milhas de Indianápolis quando um estranho acidente lhe dá o poder da supervelocidade.</info>
+    <genre>Animação</genre>
+</item>
+
+
+
+
+
+
+
+
 
 
