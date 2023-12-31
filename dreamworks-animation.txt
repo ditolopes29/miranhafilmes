@@ -196,6 +196,14 @@
     <genre>Animação</genre>
 </item>
 
+<item>
+    <title>Trolls (2014)</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FA7B825C9D57EE0FD858A27D9290A17CE3AF69D&dn=Trolls%202017%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+    <thumbnail>https://images.justwatch.com/poster/175829079/s718/trolls.jpg</thumbnail>
+    <fanart>https://uploads.metropoles.com/wp-content/uploads/2016/10/26170336/TROLLS-opens-november-2.jpg</fanart>
+    <info>Tronco (Justin Timberlake) parte para uma jornada de descobertas e aventuras ao lado de Poppy (Anna Kendrick), líder dos Trolls. Inicialmente inimigos, conforme os desafios são superados eles descobrem que no fundo combinam.</info>
+    <genre>Animação</genre>
+</item>
 
 
 
