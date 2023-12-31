@@ -246,3 +246,10 @@
 <info>Tim e Ted cresceram e se tornaram adultos com realidades opostas. Porém, os dois irmãos são recrutadas por uma das filhas de Tim, que também é uma agente da Babycorp e precisa da ajuda da dupla para derrotar uma nova ameaça.</info>
 </item>
 
+<item>
+<title>Ruby Marinho: Monstro Adolescente (2023)</title>
+<link>http://tv.com.vc:80/movie/taina/123/622178.mp4</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiZIdaHPjl-hePzYb3m1cfEYXm9MELT9xbuPqohiEr2boS51bv</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2023/06/ruby-gillman.jpg.webp</fanart>
+<info>Ruby é uma estudante doce e desajeitada do ensino médio que descobre ser descendente direta das guerreiras kraken. Destinada a herdar o trono de sua avó, Ruby deve usar seus novos poderes para proteger aqueles que ela mais ama..</info>
+</item>
