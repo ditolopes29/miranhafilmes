@@ -249,7 +249,7 @@
 <item>
 <title>Ruby Marinho: Monstro Adolescente (2023)</title>
 <link>http://tv.com.vc:80/movie/taina/123/622178.mp4</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiZIdaHPjl-hePzYb3m1cfEYXm9MELT9xbuPqohiEr2boS51bv</thumbnail>
+<thumbnail>https://br.web.img2.acsta.net/pictures/23/03/16/17/14/0437364.jpg</thumbnail>
 <fanart>https://cinepop.com.br/wp-content/uploads/2023/06/ruby-gillman.jpg.webp</fanart>
 <info>Ruby é uma estudante doce e desajeitada do ensino médio que descobre ser descendente direta das guerreiras kraken. Destinada a herdar o trono de sua avó, Ruby deve usar seus novos poderes para proteger aqueles que ela mais ama..</info>
 </item>
