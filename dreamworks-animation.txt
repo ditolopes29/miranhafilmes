@@ -207,7 +207,7 @@
 
 <item>
     <title>Trolls 2 (2020)</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:975A242AECA1FBB722312B8B744CF0C87597EE4D&dn=Trolls%202017%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QN7RI4YQJTXLHAPCEG3MVZYZCHST53OR&dn=Trolls%202%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A1337%2Fannounce</link>
     <thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb3sIJKDorF8arPaPdwQn9ibkbCidm8pLf-jHKRZG34wcQmCPd</thumbnail>
     <fanart>https://roteirinhocarioca.com.br/site/wp-content/uploads/2020/11/Trolls-2-1024x576.jpg</fanart>
     <info>Poppy e Branch ficam chocados após descobrirem que há mais cinco outras tribos espalhadas por cinco territórios diferentes, cada uma com o seu estilo musical único.</info>
