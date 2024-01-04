@@ -63,7 +63,7 @@
 </item>
 
 <item>
-    <title>Os Thundermans S04 E08</title
+    <title>Os Thundermans S04 E08 (telegram)</title>
 <link>https://web.telegram.org/k/stream/%7B%22dcId%22%3A1%2C%22location%22%3A%7B%22_%22%3A%22inputDocumentFileLocation%22%2C%22id%22%3A%224952099139123938603%22%2C%22access_hash%22%3A%223482238223481999820%22%2C%22file_reference%22%3A%5B2%2C111%2C55%2C180%2C63%2C0%2C0%2C0%2C163%2C101%2C150%2C224%2C224%2C210%2C83%2C121%2C188%2C224%2C251%2C165%2C132%2C31%2C97%2C36%2C153%2C94%2C179%2C220%2C174%5D%7D%2C%22size%22%3A360576969%2C%22mimeType%22%3A%22video%2Fmp4%22%2C%22fileName%22%3A%22THTHNDRMNST04EP08.mp4%22%7D</link>
     <thumbnail>https://media.fstatic.com/UuJyXCrHuV083cWGr7GLzGhOJjo=/322x478/smart/filters:format(webp)/media/movies/covers/2021/05/images_11.jpeg</thumbnail>
     <fanart></fanart>
